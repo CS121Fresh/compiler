@@ -1,31 +1,28 @@
-# Project Name
+# Compiler API
 
-TODO: Write a compelling/creative/informative project description / summary
+This API compiles Coconut code into Python code.
 
 ## Architecture
 
 ### Prerequisites
 
-TODO: List what a user needs to have installed before running the installation instructions below (e.g., git, which versions of Ruby/Rails)
+Needs AWS Lambda. 
 
 ### Gems
 
-TODO: List which gems you added to the project, and the purpose each gem serves in your app.
+No Gems needed.
 
 ## Installation
 
-TODO: Describe the installation process (making sure you mention `bundle install`).
-Instructions need to be such that a user can just copy/paste the commands to get things set up and running. 
+No installation needed.
 
 ## Functionality
 
-TODO: Write usage instructions. Structuring it as a walkthrough can help structure this section,
-and showcase your features.
+The user input, which is a piece of Coconut code, is compiled into Python and the resulting code is returned.
 
 ## Known Problems
 
-TODO: Describe any known issues, bugs, odd behaviors or code smells. 
-Provide steps to reproduce the problem / name a file or a function where the problem lives.
+No known issues, bugs, odd behaviors or code smells so far. 
 
 ## Contributing
 
