@@ -18,7 +18,7 @@ No installation needed.
 
 ## Functionality
 
-The user input, which is a piece of Coconut code, is compiled into Python and the resulting code is returned.
+The API tries to compile the input, which is a piece of Coconut code, into Python. If the process is successful, the resulting Python code is returned. Otherwise, error messages are returned.
 
 ## Known Problems
 
